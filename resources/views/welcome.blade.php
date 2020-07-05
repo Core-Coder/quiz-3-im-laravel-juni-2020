@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Sanbercode
+                    <a href="/artikel"><img src="{{asset('/img/ERD.png')}}" alt="foto ERD"></a>
                 </div>
 
                 <div class="links">
